@@ -124,7 +124,7 @@ var msg = {
 		year:       'Año',
 		month:      'Mes',
 		day:        'Día',
-		credits:    'Creado con <strong>desktopCal.js</strong>',
+		credits:    'Creado con Gestion Integral .Net/strong>',
 		creditTitle:'Créditos',
 		creditDescr:'Puede personalizar esta línea para incluir sus créditos fotográficos, por ejemplo.',
 		front:      'Lado 1',
